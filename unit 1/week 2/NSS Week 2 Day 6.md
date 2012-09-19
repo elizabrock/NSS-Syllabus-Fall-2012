@@ -1,4 +1,4 @@
-This day's matierial was assigned via the mailing list.
+This day's material was assigned via the mailing list.
 
 The body of that email:
 
