@@ -1,3 +1,1 @@
-Wednesday was spent on a code retreat.
-
-See [coderetreat.org](coderetreat.org) for details on what a code retreat is.
+Tuesday was spent working independently on refactoring Cal (based on Monday's peer code reviews).
