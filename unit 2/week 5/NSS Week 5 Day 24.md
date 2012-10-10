@@ -1,0 +1,1 @@
+Thursday is a work day at Emma
