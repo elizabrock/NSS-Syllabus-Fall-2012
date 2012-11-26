@@ -11,6 +11,12 @@ Lectures Already Given:
   * Luke Stokes - [Hypermedia APIs](http://slidesha.re/KLP8N6)
   * Ben Stucki - DB/Security Best Practices
   * Keith Marcum - How HTTP Caching Works
+  * James Fryman - [Dev Ops](http://nss2012-intro-to-ops.frymanet.com/) ([Source](https://github.com/jfryman/nss2012_intro_to_ops))
+
+Company Talk Links:
+--------------
+
+  * David Jarmoluk - [OnLife Health](https://s3.amazonaws.com/onlife-shared/Onlife+Health+Overview+for+Nashville+Software+School.pptx)
 
 Upcoming Lectures:
 ------------------
