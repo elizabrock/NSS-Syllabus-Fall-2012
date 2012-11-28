@@ -12,6 +12,8 @@ Lectures Already Given:
   * Ben Stucki - DB/Security Best Practices
   * Keith Marcum - How HTTP Caching Works
   * James Fryman - [Dev Ops](http://nss2012-intro-to-ops.frymanet.com/) ([Source](https://github.com/jfryman/nss2012_intro_to_ops))
+  * Josh Crews - [Legacy Rails Projects, Getting Paid What You're Worth, Morals of Software Development, Transitioning from Junior to Midlevel Developer](https://gist.github.com/4156479)
+  * Daniel Nelson - [Fundamental Gates and Circuits](http://daniel.populr.me/nss-gates-talk?eb)
 
 Company Talk Links:
 --------------
